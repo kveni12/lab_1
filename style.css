@@ -101,7 +101,7 @@ h1 {
 
 section {
   padding-bottom: 2.5em;
-  margin-bottom: 3em;
+  margin-bottom: 3em; 
   border-bottom: 2px solid oklch(32.568% 0.22454 264.604);
 }
 article {
